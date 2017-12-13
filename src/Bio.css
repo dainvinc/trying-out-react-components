@@ -1,0 +1,24 @@
+.card {
+    border: 2px solid #b3131b;
+    width: 50%;
+    height: 25%;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: black;
+    align-items: center;
+}
+
+.name {
+    color: white;
+    font-size: 30px;
+}
+
+.display-img {
+    border-radius: 50%;
+    height: 25%;
+    width: 35%;
+    overflow: hidden;
+}
